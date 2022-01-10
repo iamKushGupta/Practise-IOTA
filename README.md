@@ -11,8 +11,7 @@ This is a Practise repository(repo, in short) to teach you the basics of Git and
 
 ### file1 = YourName.txt 
   containing your name & roll number.
-### file2 = YourRollno.txt
-  containing something about you.
-
+### file2 = YourRollno.c
+  A simple C program the prints your name. (Just like a HelloWorld code.)
 # Cheers !
 

@@ -1,4 +1,4 @@
-# IOTA-sessionTest
+# Practise-IOTA
 
 Hello UG-1 (Batch of 2025)and UG-2 (Batch of 2024).
 This is a Practise repository(repo, in short) to teach you the basics of Git and GitHub, and understanding what is Flow Control.

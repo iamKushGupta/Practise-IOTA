@@ -7,7 +7,7 @@ This is a Practise repository(repo, in short) to teach you the basics of Git and
 
 ## **I will keep this Repo open for you to make sample Pull Requests(PRs), even after the session.**
 
-## Try making a PR with 2 files as a single commit.
+## Try making a PR with 2 files.
 
 ### file1 = YourName.txt 
   containing your name & roll number.

@@ -16,3 +16,4 @@ This is a Practise repository(repo, in short) to teach you the basics of Git and
 # Cheers !
 
 Varun Kumar Bansal
+Chandra Adhikarla
